@@ -117,3 +117,4 @@ if (compra) {
 }else {
     console.log("compra sem desconto");
 }
+
